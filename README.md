@@ -1,2 +1,2 @@
-# Portf-lio-profissional
+# Portfólio-profissional
 Neste repositório estão armazenados os meus documentos profissionais
